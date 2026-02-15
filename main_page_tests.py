@@ -1,6 +1,4 @@
-import pytest
 from selenium import webdriver
-import sys
 from pages import main_page
 
 firefoxDriver = webdriver.Firefox()
